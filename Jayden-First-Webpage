@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width">
+    <title>Getting to know me</title></head>
+
+<body>
+
+<section>
+    <h1>Introductions</h1>
+        <p>Hello, I am Jayden. And I am here to tell you about 3 of my favorite Video Games.</p>
+</section>
+
+<section>
+    <h2>One of my favorite hobbies is playing video games. So it is difficult to decide on which I prefer so I decided to go with 3 for now.</h2>
+</section>
+
+<section>
+  <h3>Here is a sample of 3 of my favorite games I've played</h3>
+<ul>
+    <li>Kingdom Hearts 2.5 HD Remix, 
+    <li>Sonic Adventure 2: Battle</li>
+    <li>Tales of Berseria</li>
+</ul>
+</section>
+
+<section>
+    <h4>Here is where you can find the particular wiki pages:</h>
+<ul>
+    <li><a href="https://en.wikipedia.org/wiki/Kingdom_Hearts_2.5_HD_Remix">Kingdom Hearts 2.5 Wikipedia Page</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Sonic_Adventure_2">Sonic Adventure 2 Wikipedia Page</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Tales_of_Berseria">Tales of Berseria Wikipedia Page</a></li>
+</ul>
+</section>
+
+<p>Here is some of the images of particular games</p>
+<img src="kingdom-hearts-2.5D.jpg" alt="" width="250">
+<img src="Sonic-Adventure-2-Cover.jpg" alt="" width="243">
+<img src="Tales-Of-Berseria.jpg" alt="" width="300">
+
+<p>I am glad to have met you, and hope that everyone has a wonderful day!</p>
+
+<footer>Copyright Jayden</footer>
+</body>
+
+</html>
